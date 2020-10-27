@@ -1,26 +1,17 @@
-# Android Calculator
+## CurrencyConverter
+### Demo:
+![alt text](https://github.com/naeemkhan12/CurrencyConverter/blob/master/src/application/resources/img/1vi9b2.gif "Demo Gif")
 
-Prototype Android app of Windows 10 style calculator with memory and history actions written in Kotlin. 
+### Description
+Currency Converter is a utility to convert currency rates to and from  several countries. Application uses [fixer.io](http://api.fixer.io) API to get the latest data from the internet.Currency exchange rates are according to [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html).
 
-This app was created for my personal blog post ["Let’s learn Kotlin by building Android calculator app"](http://www.baruckis.com/android/lets-learn-kotlin-by-building-android-calculator-app). 
-It is created for self learning purpose to explore Kotlin language features.
+ #### Limitations
++ Application does not support all the countries currency exchange.
++ Supported currencies includes
+``` "AUD","BGN","BRL","CAD","CHF","CNY","CZK","DKK","GBP","HKD","HRK","HUF","IDR","ILS","INR","JPY","KRW","MXN","MYR","NOK","NZD","PHP","PLN","RON","RUB","SEK","SGD","THB","TRY","ZAR","EUR" ```
 
-### App screen recording:
-
-![](calculator_kotlin_screen_recording.gif)
-
-## License
-
-    Copyright 2017 Andrius Baruckis.
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+#### Contribute
++ [Clone](https://github.com/naeemkhan12/CurrencyConverter.git) the project , use it , find and report bugs.
++ Clone the project by creating new branch with name of the feature you want to build , add the features and send a pull request.
+#### Download
+[Download](https://github.com/naeemkhan12/CurrencyConverter/releases) the App and *enjoy*.
